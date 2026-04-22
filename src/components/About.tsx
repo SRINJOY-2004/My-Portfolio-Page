@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Dedicated and detail-oriented Software Developer with strong experience in Java, Python, MERN stack, and SQL. Skilled in data structures and algorithms, full-stack development, and debugging complex issues. Passionate about building scalable solutions, improving performance, and contributing to innovative projects. Fluent in English, Hindi, and Bengali.
         </p>
       </div>
     </div>
